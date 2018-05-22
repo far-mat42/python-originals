@@ -1,7 +1,6 @@
 # Name:          Farris Matar
 # Date:          May 24, 2017
-# Class:         ICS3U1-03
-# Description:   List assignment, making an auto-correct program by reading
+# Description:   Making an auto-correct program by reading
 #                from a dictionary of words.
 
 import pygame
