@@ -1,7 +1,6 @@
 # Name:          Farris Matar
 # Date:          April 4, 2017
-# Class:         ICS3U1-03
-# Description:   Assignment 2, working with 2 equations of lines.
+# Description:   Working with 2 equations of lines.
 
 # Getting the equation from the user.
 equation1 = input("Enter the first equation in y-intercept form (no spaces): ")
